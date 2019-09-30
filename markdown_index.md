@@ -28,11 +28,7 @@
 
 ## 2. Paper
 
-<div align="center">
-
-<a href="https://arxiv.org/abs/1901.07249">
-    <img style="width:200px" src="imgs/paper_small.jpg">
-</a>   
+<div align="center"> 
 
 
 [**Paper on arXiv => "RPC: A Large-Scale Retail Product Checkout Dataset"**](https://arxiv.org/abs/1901.07249)
